@@ -7,7 +7,7 @@ A collection of Python programs exploring LangChain agents — built step by ste
 | File | Concept | Description |
 |------|---------|-------------|
 | 01_basic_agent.py | AgentExecutor | Basic agent that searches Wikipedia |
-| 02_custom_tools.py | Custom Tools | Coming soon |
+| 02_custom_tools.py | Custom Tools | Agent with custom weather and population tools |
 | 03_math_agent.py | Math Tool | Coming soon |
 | 04_search_agent.py | Search Tool | Coming soon |
 | 05_multi_tool_agent.py | Multiple Tools | Coming soon |
